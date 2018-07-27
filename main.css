@@ -11,7 +11,7 @@ body {
   color: #fff;
   font-family: 'Raleway', sans-serif;
   font-size:15px;
-  background: #999 url(https://awareful.co.uk/wp-content/uploads/2016/11/minimal_meditation_wallpaper_1920x1080_by_dssdiego-d9x4cr6.png) center no-repeat;
+  background: url(https://cdn-images-1.medium.com/max/2000/1*OOWSoWHeQ5kyJ4N0P2ptNA.png) center no-repeat;
   background-size: cover;
   overflow: hidden;
   padding-right: 50px
@@ -36,7 +36,6 @@ h1 {
   width: 100%;
   margin: 40vh 0 3vh 0;
   font-family: 'Press Start 2P', cursive;
-  /* font-family: 'Raleway', sans-serif; */
   font-weight: 100;
   font-size: 28px;
   transition:all 0.4s
